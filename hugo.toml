@@ -4,24 +4,24 @@ title = "alimzhanovlr"
 theme = "PaperMod"
 
 [params]
-    homeInfoTitle = "Обо мне"
-    homeInfoContent = "Привет! Это страница обо мне. Здесь можно написать что угодно."
+    homeInfoTitle = "About Me"
+    homeInfoContent = "Hello World"
 
 [[menu.main]]
     identifier = "about"
-    name = "Обо мне"
+    name = "about"
     url = "/"
     weight = 1
 
 [[menu.main]]
     identifier = "books"
-    name = "Книги"
+    name = "books"
     url = "/books/"
     weight = 2
 
 [[menu.main]]
     identifier = "posts"
-    name = "Посты"
+    name = "posts"
     url = "/posts/"
     weight = 3
  
