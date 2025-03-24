@@ -1,6 +1,6 @@
 ---
-title: "Моя первая книга"
+title: "To Kill a Mockingbird"
 date: 2025-03-24
-description: "Описание книги"
+description: "To Kill a Mockingbird is a 1960 Southern Gothic novel by American author Harper Lee"
 ---
-Здесь текст о книге.
+good
