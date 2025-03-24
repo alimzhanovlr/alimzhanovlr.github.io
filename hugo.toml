@@ -1,0 +1,26 @@
+baseURL = "https://alimzhanovlr.github.io/"
+languageCode = "ru-RU"
+title = "alimzhanovlr"
+theme = "PaperMod"
+
+[params]
+    homeInfoTitle = "Обо мне"
+    homeInfoContent = "Привет! Это страница обо мне. Здесь можно написать что угодно."
+
+[[menu.main]]
+    identifier = "about"
+    name = "Обо мне"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "books"
+    name = "Книги"
+    url = "/books/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "posts"
+    name = "Посты"
+    url = "/posts/"
+    weight = 3
